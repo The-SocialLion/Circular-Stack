@@ -34,6 +34,10 @@ class circularstack:
       print("circular stack underflow")
     else:
       print(self.cs.pop())
+      if self.top == self.limit:
+        self.top = 0
+      else:
+        self.top=(self.top+1)%self.limit
   def peek(self):
     if self.isempty():
       print("circular stack underflow")
