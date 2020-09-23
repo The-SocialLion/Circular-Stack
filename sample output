@@ -1,1 +1,52 @@
-
+enter limit5
+1.Push,2.Pop,3.peek
+4.display 5.exit
+enter your choice1
+enter element23
+1.Push,2.Pop,3.peek
+4.display 5.exit
+enter your choice1
+enter element34
+1.Push,2.Pop,3.peek
+4.display 5.exit
+enter your choice1
+enter element67
+1.Push,2.Pop,3.peek
+4.display 5.exit
+enter your choice1
+enter element89
+1.Push,2.Pop,3.peek
+4.display 5.exit
+enter your choice1
+enter element123
+1.Push,2.Pop,3.peek
+4.display 5.exit
+enter your choice2
+123
+1.Push,2.Pop,3.peek
+4.display 5.exit
+enter your choice4
+23 34 67 89 
+1.Push,2.Pop,3.peek
+4.display 5.exit
+enter your choice2
+89
+1.Push,2.Pop,3.peek
+4.display 5.exit
+enter your choice4
+23 34 67 
+1.Push,2.Pop,3.peek
+4.display 5.exit
+enter your choice1
+enter element34
+1.Push,2.Pop,3.peek
+4.display 5.exit
+enter your choice1
+enter element78
+1.Push,2.Pop,3.peek
+4.display 5.exit
+enter your choice4
+23 34 67 34 78 
+1.Push,2.Pop,3.peek
+4.display 5.exit
+enter your choice5
